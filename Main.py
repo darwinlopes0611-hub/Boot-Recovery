@@ -3,18 +3,8 @@ import string
 import time
 import hashlib
 
-print(f"de:Darwin Cruz Lopes\n para:")
+print(f"feito por:Darwin Cruz Lopes\n")
 
-
-print(r"""
-   ##       ##     ######   ######            #####     #####            #######  ######
-  ###      ###     ##       ##                 ## ##   ##   ##            ##   #  # ## #
-   ##       ##     #####    #####              ##  ##  ##   ##            ## #      ##
-   ##       ##         ##       ##             ##  ##  ##   ##            ####      ##
-   ##       ##         ##       ##             ##  ##  ##   ##            ## #      ##
-   ##       ##     ##  ##   ##  ##             ## ##   ##   ##            ##   #    ##
- ######   ######    ####     ####             #####     #####            #######   ####
-""")
 time.sleep(2)
 print("\nRecuperador de boot do Windows\n")
 def identificador_disc_windows():
